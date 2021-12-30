@@ -1,0 +1,9 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+
+#nav-dropdown, .navLink{
+
+  color :rgb(112, 147, 179) !important
+ }
